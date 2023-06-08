@@ -112,7 +112,7 @@ class Comments extends Component {
                 className="name-input"
                 placeholder="Your Name"
                 value={nameInput}
-                onChange={this.onChangeCommentInput}
+                onChange={this.onChangeNameInput}
               />
 
               <textarea
